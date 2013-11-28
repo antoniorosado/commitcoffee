@@ -550,6 +550,21 @@ var places = [
 			"Provision": "Coffee, tea, juices, beers, cake, meals",
 		},
 		"link": {"homepage":"http://www.hotelpiemont.pl/"}
+	},
+	{
+		"city": "Lisbon",
+		"country": "PT",
+		"name": "Starbucks",
+		"address": "Avenida dos Cavaleiros 60",
+		"coordinates": ["38.728075", "-9.218949"],
+		"description": {
+			"Internet": "Free wifi, good speed",
+			"Power Outlets": "There are a few",
+			"Seating": "Very comfortable seats",
+			"Service": "Very friendly",
+			"Provision": "Coffee, tea, juices, cakes",
+		},
+		"link": {"homepage":"http://www.alegro.pt/"}
 	}
 
 ]
